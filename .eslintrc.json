@@ -5,7 +5,8 @@
     "comma-dangle": "off",
     "quotes": "off",
     "no-unused-vars": "off",
-    "no-param-reassign": "off"
+    "no-param-reassign": "off",
+    "no-multiple-empty-lines": "off"
   },
   "env": {
     "node": true,
