@@ -1,5 +1,5 @@
 body {
-  background-color: #333;
+  background: black url(src/twitter.png) no-repeat;
   font-family: helvetica, sans-serif;
 }
 h1 {
@@ -30,7 +30,11 @@ h1 {
 }
 
 #timeline img {
-  width: 80px;
-  margin-left: 10px;
-  border-radius: 50%;
+  width: 36vw;
+  margin-left: 35px;
+  margin-top: 124px;
+}
+
+#timeline #serge{
+  margin-top: -20px;
 }
